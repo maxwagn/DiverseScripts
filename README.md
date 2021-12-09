@@ -1,4 +1,4 @@
 ## DiverseScripts
 
-In this repository I collect various useful scripts mainly for privat purposes. Nontheless, everybody is free to use them.
+In this repository I collect various small but useful scripts, mainly for private purposes. Nonetheless, everybody is free to use them.
 
